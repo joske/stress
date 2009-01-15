@@ -41,6 +41,3 @@ rps = connects / aTime
 printf("Total Connects : %d\n", connects)
 printf("Total Time : %.2f seconds\n", aTime)
 printf("Requests / second : %.2f\n", rps)
-
-
-	
